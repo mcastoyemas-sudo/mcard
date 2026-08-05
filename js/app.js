@@ -46,7 +46,7 @@ document.addEventListener("DOMContentLoaded", () => {
     if(whatsappBtn){
 
         whatsappBtn.href =
-        `https://wa.me/${contacto.whatsapp}`;
+        `https://g.page/r/CdJWBkiSTsWcEAI/review`;
 
         whatsappBtn.target="_blank";
 
