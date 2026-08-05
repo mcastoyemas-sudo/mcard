@@ -1,0 +1,69 @@
+/* =================================
+   ANIMATIONS
+================================= */
+
+
+.hero,
+.card,
+.card-action {
+
+    animation:
+
+    fadeUp .7s ease both;
+
+}
+
+
+
+@keyframes fadeUp {
+
+
+    from {
+
+        opacity:0;
+
+        transform:
+
+        translateY(25px);
+
+    }
+
+
+    to {
+
+        opacity:1;
+
+        transform:
+
+        translateY(0);
+
+    }
+
+
+}
+
+
+
+.btn-primary,
+.btn-secondary,
+.card-action {
+
+
+    transition:
+
+    transform .25s ease;
+
+}
+
+
+
+.btn-primary:active,
+.btn-secondary:active,
+.card-action:active {
+
+
+    transform:
+
+    scale(.96);
+
+}
