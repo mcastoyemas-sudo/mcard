@@ -1,0 +1,42 @@
+:root {
+
+    /* Colores OyeMás */
+
+    --primary: #00C0BD;
+
+    --secondary: #00605F;
+
+    --accent: #F47B52;
+
+    --surface: #CCFFFB;
+
+    --white: #FFFFFF;
+
+    --text: #222222;
+
+    --gray: #666666;
+
+
+    /* Diseño */
+
+    --radius-lg: 25px;
+
+    --radius-md: 18px;
+
+    --radius-sm: 12px;
+
+
+    /* Sombras */
+
+    --shadow:
+
+    0 10px 30px rgba(0,0,0,.08);
+
+
+    /* Transiciones */
+
+    --transition:
+
+    .3s ease;
+
+}
