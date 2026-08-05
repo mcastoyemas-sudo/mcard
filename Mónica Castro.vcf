@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Castro;Mónica;;;
+FN:Mónica Castro
+ORG:Clínica OyeMás Audiología;
+TITLE:Audióloga
+TEL;type=WORK;waid=50688815335:+506 8881 5335
+EMAIL;type=INTERNET:mcastro@oyemas.net
+item1.ADR;type=WORK:;;Hospital Metropolitano Escazú. Costado suroeste de Multiplaza Escazú.;;;;
+item2.URL:https://www.linkedin.com/in/m%C3%B3nica-castro-calder%C3%B3n-341100150/
+item2.X-ABLabel:LINKEDIN
+item3.URL:https://www.facebook.com/profile.php?id=61586228073611
+item3.X-ABLabel:FACEBOOK
+item4.URL:https://www.instagram.com/aud.monicastro
+item4.X-ABLabel:INSTAGRAM
+item5.URL:https://wa.me/message/P2HDQQHVHV6BF1?src=qr
+item5.X-ABLabel:WHATSAPP
+item6.URL:https://hihello.com/p/83633afe-0f88-4265-bf91-078e95bc19d1
+item6.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
